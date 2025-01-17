@@ -51,7 +51,7 @@ const Footer = () => {
             <ul className="space-y-2">
               <li className="flex items-center space-x-2 text-gray-600">
                 <Phone className="h-4 w-4" />
-                <span>+91 98765 43210</span>
+                <span>+91 9876566***</span>
               </li>
               <li className="flex items-center space-x-2 text-gray-600">
                 <Mail className="h-4 w-4" />
@@ -59,7 +59,7 @@ const Footer = () => {
               </li>
               <li className="flex items-center space-x-2 text-gray-600">
                 <MapPin className="h-4 w-4" />
-                <span>123, MG Road, Bangalore - 560001</span>
+                <span>123, SG Road, ahemdabad - 380001</span>
               </li>
             </ul>
           </div>
