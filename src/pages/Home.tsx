@@ -1,7 +1,7 @@
 import { Button } from '@/components/ui/button';
 import { Card } from '@/components/ui/card';
 import { Link } from 'react-router-dom';
-import { Heart, Users, BookOpen, Leaf } from 'lucide-react';
+import { Heart, BookOpen, Leaf } from 'lucide-react';
 
 const Home = () => {
   return (
